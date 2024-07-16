@@ -76,10 +76,16 @@ https://drive.google.com/file/d/10kPVu7IPMu816wFTj0JbIFGDpoHLHMQv/view?usp=drive
 
 Hardware: PC, Kinect Camera
 
-Description: By using the kinect camera i have implemented the hand gesture detection such as left and right hand raise, left and right hand swipe. Also user detection for the costumes to fit on the user. The app uses i2 localization for language inside the app, kinect depth information for correcly fitting the costume, and dynamic costume scaling for each user. To get the fluid costume effect we use a cloth simulation package combined with our physics logic. After a costume is selected you can take a picture and then a QR code will appear where the picture is stored. The picture is stored on their server. The logic for uploading is that the program checks a folder where the images are saved. When a picture inside the folder is detected the picture will be send to the server and afterward it will be deleted from the folder.
+Description: By using the kinect camera i have implemented the hand gesture detection such as left and right hand raise, left and right hand swipe. Also user detection for the costumes to fit on the user. The app uses i2 localization for language inside the app, kinect depth information for correcly fitting the costume, and dynamic costume scaling for each user. To get the fluid costume effect we use a cloth simulation package combined with our physics logic. After a costume is selected you can take a picture and then a QR code will appear where the picture is stored. The picture is stored on their server. The logic for uploading is that the program checks a folder where the images are saved. When a picture inside the folder is detected the picture will be send to the server and afterward it will be deleted from the folder. The backgrounds of the screenshot can be regulated and changed withing the .json file(if its an image background or a blurred background). If the background is an image, there is a image folder where the client can load its images and the images will be at random loaded for each screenshot.
 
 ![VDR](https://github.com/user-attachments/assets/41a2c69f-034d-4812-9ab7-a8f606f65636)
 ![VDR2](https://github.com/user-attachments/assets/f97f7b6a-d268-4785-baad-153aaf98298c)
+
+Screenshots from the app(there can be different backgrounds):
+
+![KrujaVDR_2024-05-29-10-46-50](https://github.com/user-attachments/assets/569909b4-53c4-4574-b137-edeb63a7bd2d)
+![KrujaVDR_2024-05-29-10-47-31](https://github.com/user-attachments/assets/5b2211cd-7a6d-49dd-82b3-707ec8b425b2)
+![Uploading KrujaVDR_2023-11-06-09-23-57.png…]()
 
 Video of the app can be viewed here: https://drive.google.com/file/d/1Rmgn_EHeOhd_96bASG5uYSHP8j2ZTeUE/view?usp=drive_link
 
