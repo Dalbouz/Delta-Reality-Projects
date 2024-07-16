@@ -86,8 +86,9 @@ Description: AR app that uses Vuforia Engine for marker detection and video snap
 Video of the app can be viewed here:
 https://drive.google.com/file/d/1ebzC_kql0EKSrFLBbgDCa1i4y3OwszBZ/view?usp=drive_link
 https://drive.google.com/file/d/10kPVu7IPMu816wFTj0JbIFGDpoHLHMQv/view?usp=drive_link
+<br></br>
 
-**Project Virtual Dressing Room**
+<b>Project: Virtual Dressing Room</b>
 
 Hardware: PC, Kinect Camera
 
@@ -110,6 +111,7 @@ Screenshots from the app(there can be different backgrounds):
 <img src = "https://github.com/user-attachments/assets/5b2211cd-7a6d-49dd-82b3-707ec8b425b2" height = "700px">
 </div>
 
+<br></br>
 Video of the app can be viewed here: https://drive.google.com/file/d/1Rmgn_EHeOhd_96bASG5uYSHP8j2ZTeUE/view?usp=drive_link
 
 ______________________________________________________________
@@ -162,7 +164,7 @@ Final pictures:
 <img src = "https://github.com/user-attachments/assets/708c310d-cf5a-4a2a-b445-3bc44152b3e6" height = "700px">
 <img src = "https://github.com/user-attachments/assets/caec5411-b4c5-4177-bb80-9e33599461e4" height = "700px">
 </div>
-
+<br></br>
 Full video of the app can be viewed here: https://drive.google.com/file/d/1XrbJmzYFgbCMTrrAovk3YQgmW0NfdtDd/view?usp=drive_link
 ___________________________________________________________________
 
