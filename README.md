@@ -20,3 +20,26 @@ For the languages we use the i2 localization package. From this is a photobooth 
 ![Europa-Photobooth_2024-03-26-10-50-25](https://github.com/user-attachments/assets/4557b481-04ea-456d-a8a0-b46b95fdcece)
 
 ![EuropaParkSendToEmail](https://github.com/user-attachments/assets/47ad0f69-fda0-406e-ba7d-530e5b9197eb)
+
+_____________________________________________________
+
+**Client: Museum of Knin**
+
+**Project: Interactive book**
+
+Hardware: Andriod box, Infrared Camera, projector
+
+Description: We use a real book with printed markers. To detect the markers we use the Vuforia Engine. The app uses two langauges, so there are two videos for each marker, one made in croatian and the other in english. To change the langauge we use real buttons that are connected to the android box. When the camera detects a marker it starts with the video projection, if the language is changed while the video is playing it will just switch the video from cro to eng or the other way around and continue the video from the same frame it was stoped.
+
+![Interactive book1](https://github.com/user-attachments/assets/131cbad1-ef0c-45f3-b043-4a2881f64ad3)
+
+![Interactive book2](https://github.com/user-attachments/assets/efb4928c-ad43-4730-a007-50b3780bfeea)
+
+![Interactive book3](https://github.com/user-attachments/assets/f628cab2-7dfe-4d56-bc13-a619c008b94a)
+
+![Interactive book4](https://github.com/user-attachments/assets/877bf24e-db21-4678-b85a-52caaabef2a8)
+
+Video can be viewed here: https://drive.google.com/file/d/1_6tt-m7uKKhkISn7lb-ACMGB4CQT0aqD/view?usp=drive_link
+
+
+
