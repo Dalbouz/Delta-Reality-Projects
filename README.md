@@ -102,9 +102,11 @@ Description: By using the kinect camera i have implemented the hand gesture dete
 
 Screenshots from the app(there can be different backgrounds):
 <br></br>
-<div align = center">
-<img src = "https://github.com/user-attachments/assets/569909b4-53c4-4574-b137-edeb63a7bd2d" width = "700px">
-<img src = "https://github.com/user-attachments/assets/5b2211cd-7a6d-49dd-82b3-707ec8b425b2" width = "700px">
+<div align = "center">
+<img src = "https://github.com/user-attachments/assets/569909b4-53c4-4574-b137-edeb63a7bd2d" height = "700px">
+  <br></br>
+
+<img src = "https://github.com/user-attachments/assets/5b2211cd-7a6d-49dd-82b3-707ec8b425b2" height = "700px">
 </div>
 
 Video of the app can be viewed here: https://drive.google.com/file/d/1Rmgn_EHeOhd_96bASG5uYSHP8j2ZTeUE/view?usp=drive_link
@@ -120,10 +122,10 @@ Hardware: Nuc, Touch monitor
 Description: For the video player i use the AVPro plugin. The video controls are custom si that we can use some features that are not integrated inside the plugin. The import of the videos needed to be easy to do so i have created a simple way for the clients to load their videos, by writting the name and description video inside an exel sheet with a unique Key string. That key string is used for the video name and the video thumbnail. All of the video thumbnails and videos are stored inside the Streaming Assets folder. 
 <br></br>
 <div align = "center">
-<img src = "https://github.com/user-attachments/assets/2339311e-33bf-42c8-bbdf-e99e8d785da8" width = "700px">
-<img src = "https://github.com/user-attachments/assets/9b010bd3-5521-4a78-8105-c44a3afe18ae" width = "700px">
-<img src = "https://github.com/user-attachments/assets/1b7ee014-5b66-4f0a-8779-11d628396e4a" width = "700px">
-<img src = "https://github.com/user-attachments/assets/9c63c3f2-4c8d-4f5e-b905-671f01f0b40e" width = "700px">
+<img src = "https://github.com/user-attachments/assets/2339311e-33bf-42c8-bbdf-e99e8d785da8" height = "700px">
+<img src = "https://github.com/user-attachments/assets/9b010bd3-5521-4a78-8105-c44a3afe18ae" height = "700px">
+<img src = "https://github.com/user-attachments/assets/1b7ee014-5b66-4f0a-8779-11d628396e4a" height = "700px">
+<img src = "https://github.com/user-attachments/assets/9c63c3f2-4c8d-4f5e-b905-671f01f0b40e" height = "700px">
 </div>
 
 Video of the app can be viewed here: https://drive.google.com/file/d/1J0meqXI9T2M6TiDta63DcWqWSK6b303O/view?usp=drive_link
@@ -139,24 +141,24 @@ hardware: PC, DSLR camera, Projector, Touch monitor
 Description: By using the DSLR camera as a web came and implementing mediapipe i have gotten a cutout of the users face. Getting the face point indexes of the user, im dynamic creating a mesh of the users face and with an extra camera in the sceen im getting the mesh position and creating a 2D alpha mask out of it. With this alpha mask i can blit the two textures (alpha mask and the camera feed) so that i can isolate the users surroundings and get only the users face. Now with some calculation i can get the users face inside the correct box no mather if the user stands infront of the camera of somewhere left/right. The costumes are created as prefabs and are saved hierachly inside scriptable objects. There are scriptable objects for the gender and the gender data holds the references to their costume data. The costume data holds the reference to the costume image thumbnail and the costume prefab. The flow of the app goes that on enter state of each screen a hologram appears on the Display 2 and talks about the history of photography. After the hologram finishes the app is interactable. After a costume is picked a screenshot state is up next where the user can take a screenhot of himself. There is a sepia shader material that is applyed on the final image. Aftweward the user can give the image a name and by submiting it the image is send via local server to the museums info table where the image can be printed out.
 <br></br>
 <div align = "center">
-<img src = "https://github.com/user-attachments/assets/082b4751-acc0-4ecb-a5f2-8b72fba73431" width = "700px">
-<img src = "https://github.com/user-attachments/assets/478783a1-6449-4b1f-b167-34ef6bd28925" width = "700px">
-<img src = "https://github.com/user-attachments/assets/64546491-117d-4ddd-aac0-245a3dd62b4e" width = "700px">
-<img src = "https://github.com/user-attachments/assets/eca2ff0a-cd18-468a-8f4f-8ffb7c816d04" width = "700px">
-<img src = "https://github.com/user-attachments/assets/77b726e4-5f67-4cd6-9e3b-f1ec8b52b1df" width = "700px">
-<img src = "https://github.com/user-attachments/assets/d4145d6b-9525-41fc-b6e1-33f67f56b523" width = "700px">
+<img src = "https://github.com/user-attachments/assets/082b4751-acc0-4ecb-a5f2-8b72fba73431" height = "700px">
+<img src = "https://github.com/user-attachments/assets/478783a1-6449-4b1f-b167-34ef6bd28925" height = "700px">
+<img src = "https://github.com/user-attachments/assets/64546491-117d-4ddd-aac0-245a3dd62b4e" height = "700px">
+<img src = "https://github.com/user-attachments/assets/eca2ff0a-cd18-468a-8f4f-8ffb7c816d04" height = "700px">
+<img src = "https://github.com/user-attachments/assets/77b726e4-5f67-4cd6-9e3b-f1ec8b52b1df" height = "700px">
+<img src = "https://github.com/user-attachments/assets/d4145d6b-9525-41fc-b6e1-33f67f56b523" height = "700px">
 </div>
 <br></br>
 
 Final pictures:
 <br></br>
 <div align = "center">
-<img src = "https://github.com/user-attachments/assets/6a4992cb-7d6b-48e6-ae2c-e0370b4692eb" width = "700px">
-<img src = "https://github.com/user-attachments/assets/7f85a4ef-3f7c-427a-8c0d-5a006bd9c3ae" width = "700px">
-<img src = "https://github.com/user-attachments/assets/8db3fc31-7dc6-413d-832a-20ef1a898c4d" width = "700px">
-<img src = "https://github.com/user-attachments/assets/0fe88e8c-f01f-4809-bf0b-16aee315b628" width = "700px">
-<img src = "https://github.com/user-attachments/assets/708c310d-cf5a-4a2a-b445-3bc44152b3e6" width = "700px">
-<img src = "https://github.com/user-attachments/assets/caec5411-b4c5-4177-bb80-9e33599461e4" width = "700px">
+<img src = "https://github.com/user-attachments/assets/6a4992cb-7d6b-48e6-ae2c-e0370b4692eb" height = "700px">
+<img src = "https://github.com/user-attachments/assets/7f85a4ef-3f7c-427a-8c0d-5a006bd9c3ae" height = "700px">
+<img src = "https://github.com/user-attachments/assets/8db3fc31-7dc6-413d-832a-20ef1a898c4d" height = "700px">
+<img src = "https://github.com/user-attachments/assets/0fe88e8c-f01f-4809-bf0b-16aee315b628" height = "700px">
+<img src = "https://github.com/user-attachments/assets/708c310d-cf5a-4a2a-b445-3bc44152b3e6" height = "700px">
+<img src = "https://github.com/user-attachments/assets/caec5411-b4c5-4177-bb80-9e33599461e4" height = "700px">
 </div>
 
 Full video of the app can be viewed here: https://drive.google.com/file/d/1XrbJmzYFgbCMTrrAovk3YQgmW0NfdtDd/view?usp=drive_link
