@@ -112,7 +112,7 @@ ____________________________________________________
 
 **Project: Photographic work**
 
-hardware: PC, DSLR camera, Projector
+hardware: PC, DSLR camera, Projector, Touch monitor
 
 Description: By using the DSLR camera as a web came and implementing mediapipe i have gotten a cutout of the users face. Getting the face point indexes of the user, im dynamic creating a mesh of the users face and with an extra camera in the sceen im getting the mesh position and creating a 2D alpha mask out of it. With this alpha mask i can blit the two textures (alpha mask and the camera feed) so that i can isolate the users surroundings and get only the users face. Now with some calculation i can get the users face inside the correct box no mather if the user stands infront of the camera of somewhere left/right. The costumes are created as prefabs and are saved hierachly inside scriptable objects. There are scriptable objects for the gender and the gender data holds the references to their costume data. The costume data holds the reference to the costume image thumbnail and the costume prefab. The flow of the app goes that on enter state of each screen a hologram appears on the Display 2 and talks about the history of photography. After the hologram finishes the app is interactable. After a costume is picked a screenshot state is up next where the user can take a screenhot of himself. There is a sepia shader material that is applyed on the final image. Aftweward the user can give the image a name and by submiting it the image is send via local server to the museums info table where the image can be printed out.
 
@@ -132,6 +132,5 @@ Final pictures:
 ![man3](https://github.com/user-attachments/assets/caec5411-b4c5-4177-bb80-9e33599461e4)
 
 Full video of the app can be viewed here: https://drive.google.com/file/d/1XrbJmzYFgbCMTrrAovk3YQgmW0NfdtDd/view?usp=drive_link
-
-___________________________________________________________________-
-______________________________________
+___________________________________________________________________
+___________________________________
