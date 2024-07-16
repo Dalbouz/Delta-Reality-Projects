@@ -11,6 +11,7 @@ Description: A photobooth app that uses Orbbec Femto bolt camera for user detect
 For the languages we use the i2 localization package. From this is a photobooth template project was created for every other future photobooth app.
 
 <img src = "https://github.com/user-attachments/assets/e5603f3b-a544-4af7-aa34-cdf46e7df020" alt = "EuropaParkIdle" height = "500px" align = "center">
+<br></br>
 
 ![EuropaParkLang_select](https://github.com/user-attachments/assets/92d4044f-e630-4dff-96e2-8ad11a4805bc)
 
