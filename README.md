@@ -48,9 +48,9 @@ Description: The app is made out of two stages, the main menu stage where by usi
 
 ![Knin 360 VR](https://github.com/user-attachments/assets/9cf9f93a-06cc-46d9-8298-cf048a4997e4)
 
-![Knin 360 VR3](https://github.com/user-attachments/assets/f81860c5-1a1c-4a01-90b9-ddbc87dbf016)
-
 ![Knin 360 VR2](https://github.com/user-attachments/assets/6807b688-6979-4e1c-abad-bcb7937ffce4)
+
+![Knin 360 VR3](https://github.com/user-attachments/assets/f81860c5-1a1c-4a01-90b9-ddbc87dbf016)
 
 Video can be viewed here: https://drive.google.com/file/d/1gplcIPQUki2ZbLijr6D5wW1ebIkQa5Cr/view?usp=drive_link
 
