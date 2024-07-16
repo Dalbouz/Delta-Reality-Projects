@@ -5,10 +5,10 @@ In this repository im going to showcase projectes i have worked on inside the De
 _____________________________________________________________
 
 Client: Europa Park Germany
-Hardware: Nuc, 55' Touch monitor, Orbbec Femto bolt camera
-Description: A photobooth app that uses Orbbec Femto bolt camera for user detection and user cutout. The app is made out of few stages where the user can pick a language out of the 3 selected languages, select a background, take the picture and send the picture to its email. Also the user needs to agree to the GDPR that is inside the app and we use a certain algoritam to check if the email is written correctly. 
 
-The email that is sending the picture from is a stores email inside the .json file. The protocol for sending the email is SMTP and the email is send with a preloaded subject and description that can be changed inside the .json file.
+Hardware: Nuc, 55' Touch monitor, Orbbec Femto bolt camera
+
+Description: A photobooth app that uses Orbbec Femto bolt camera for user detection and user cutout. The app is made out of few stages where the user can pick a language out of the 3 selected languages, select a background, take the picture and send the picture to its email. Also the user needs to agree to the GDPR that is inside the app and we use a certain algoritam to check if the email is written correctly. The email that is sending the picture from is a stores email inside the .json file. The protocol for sending the email is SMTP and the email is send with a preloaded subject and description that can be changed inside the .json file.
 For the languages we use the i2 localization package.
 
 ![EuropaParkIdle](https://github.com/user-attachments/assets/e5603f3b-a544-4af7-aa34-cdf46e7df020)
