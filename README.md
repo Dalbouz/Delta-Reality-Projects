@@ -1,4 +1,4 @@
-![man3](https://github.com/user-attachments/assets/caec5411-b4c5-4177-bb80-9e33599461e4)Projects created withing Delta Reality
+Projects created withing Delta Reality
 
 In this repository im going to showcase projectes i have worked on inside the Delta Reality firm. Also For each project there will be a description on the core features, technologys and hardware used.
 _____________________________________________________________
@@ -129,6 +129,7 @@ Final pictures:
 ![boy1](https://github.com/user-attachments/assets/8db3fc31-7dc6-413d-832a-20ef1a898c4d)
 ![F-kid1](https://github.com/user-attachments/assets/0fe88e8c-f01f-4809-bf0b-16aee315b628)
 ![F-kid2](https://github.com/user-attachments/assets/708c310d-cf5a-4a2a-b445-3bc44152b3e6)
+![man3](https://github.com/user-attachments/assets/caec5411-b4c5-4177-bb80-9e33599461e4)
 
 Full video of the app can be viewed here: https://drive.google.com/file/d/1XrbJmzYFgbCMTrrAovk3YQgmW0NfdtDd/view?usp=drive_link
 
