@@ -60,9 +60,7 @@ _______________________________________________
 
 Hardware: Android tablet
 
-Description: AR app that uses Vuforia Engine for marker detection and video snapping. The video snapping was extra calibrated so we can get the fully correct position of the video playing over the marker. We needed to overlap a video taht is playing in 3D space with a video that will be played in 2D space, to get this effect we make a smooth transition from the 3D world space into the 2D overlay space. After the 2D overlay video finishes there is a state to scan the marker again. The subtitles are loaded via script so every subtitle is saved inside a exel sheet and loaded at the time when needed.
-
-
+Description: AR app that uses Vuforia Engine for marker detection and video snapping. The video snapping was extra calibrated so we can get the fully correct position of the video playing over the marker. We needed to overlap a video taht is playing in 3D space with a video that will be played in 2D space, to get this effect we make a smooth transition from the 3D world space into the 2D overlay space. After the 2D overlay video finishes there is a state to scan the marker again. The subtitles are loaded via script so every subtitle is saved inside a exel sheet and loaded at the time when needed. For video handling i use AVPro plugin.
 
 ![krujawall1](https://github.com/user-attachments/assets/c3482c87-581b-4627-97f8-e3fda050fbb6)
 ![krujawall2](https://github.com/user-attachments/assets/4083fa7b-a5e3-4fbe-8cda-57b8dc27c5f8)
@@ -70,5 +68,19 @@ Description: AR app that uses Vuforia Engine for marker detection and video snap
 ![krujawall4](https://github.com/user-attachments/assets/2a927953-f98b-47b8-9fd2-eb00af2ca6d8)
 ![krujawall5](https://github.com/user-attachments/assets/50588f8e-2358-446c-a5d1-664681329ffd)
 
+Video of the app can be viewed here:
+https://drive.google.com/file/d/1ebzC_kql0EKSrFLBbgDCa1i4y3OwszBZ/view?usp=drive_link
+https://drive.google.com/file/d/10kPVu7IPMu816wFTj0JbIFGDpoHLHMQv/view?usp=drive_link
+
+**Project Virtual Dressing Room**
+
+Hardware: PC, Kinect Camera
+
+Description: By using the kinect camera i have implemented the hand gesture detection such as left and right hand raise, left and right hand swipe. Also user detection for the costumes to fit on the user. The app uses i2 localization for language inside the app, kinect depth information for correcly fitting the costume, and dynamic costume scaling for each user. To get the fluid costume effect we use a cloth simulation package combined with our physics logic. After a costume is selected you can take a picture and then a QR code will appear where the picture is stored. The picture is stored on their server. The logic for uploading is that the program checks a folder where the images are saved. When a picture inside the folder is detected the picture will be send to the server and afterward it will be deleted from the folder.
+
+![VDR](https://github.com/user-attachments/assets/41a2c69f-034d-4812-9ab7-a8f606f65636)
+![VDR2](https://github.com/user-attachments/assets/f97f7b6a-d268-4785-baad-153aaf98298c)
+
+Video of the app can be viewed here: https://drive.google.com/file/d/1Rmgn_EHeOhd_96bASG5uYSHP8j2ZTeUE/view?usp=drive_link
 
 1
