@@ -70,9 +70,16 @@ Description: AR app that uses Vuforia Engine for marker detection and video snap
 <br></br>
 <div align = "center">
 <img src = "https://github.com/user-attachments/assets/c3482c87-581b-4627-97f8-e3fda050fbb6" width = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/4083fa7b-a5e3-4fbe-8cda-57b8dc27c5f8" width = "700px">
+  <br></br>
+
 <img src = "https://github.com/user-attachments/assets/38dec019-e437-4c9e-bfda-ce7a8f5dee43" width = "700px">
+<br></br>
+
 <img src = "https://github.com/user-attachments/assets/2a927953-f98b-47b8-9fd2-eb00af2ca6d8" width = "700px">
+<br></br>
+
 <img src = "https://github.com/user-attachments/assets/50588f8e-2358-446c-a5d1-664681329ffd" width = "700px">
 </div>
 
@@ -87,8 +94,10 @@ Hardware: PC, Kinect Camera
 Description: By using the kinect camera i have implemented the hand gesture detection such as left and right hand raise, left and right hand swipe. Also user detection for the costumes to fit on the user. The app uses i2 localization for language inside the app, kinect depth information for correcly fitting the costume, and dynamic costume scaling for each user. To get the fluid costume effect we use a cloth simulation package combined with our physics logic. After a costume is selected you can take a picture and then a QR code will appear where the picture is stored. The picture is stored on their server. The logic for uploading is that the program checks a folder where the images are saved. When a picture inside the folder is detected the picture will be send to the server and afterward it will be deleted from the folder. The backgrounds of the screenshot can be regulated and changed withing the .json file(if its an image background or a blurred background). If the background is an image, there is a image folder where the client can load its images and the images will be at random loaded for each screenshot.
 <br></br>
 <div align = "center">
-<img src = "https://github.com/user-attachments/assets/41a2c69f-034d-4812-9ab7-a8f606f65636" width = "700px">
-<img src = "https://github.com/user-attachments/assets/f97f7b6a-d268-4785-baad-153aaf98298c" width = "700px">
+<img src = "https://github.com/user-attachments/assets/41a2c69f-034d-4812-9ab7-a8f606f65636" height = "700px">
+  <br></br>
+
+<img src = "https://github.com/user-attachments/assets/f97f7b6a-d268-4785-baad-153aaf98298c" height = "700px">
 </div>
 
 Screenshots from the app(there can be different backgrounds):
