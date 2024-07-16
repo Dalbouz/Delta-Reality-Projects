@@ -38,7 +38,7 @@ Description: We use a real book with printed markers. To detect the markers we u
 
 Video can be viewed here: https://drive.google.com/file/d/1_6tt-m7uKKhkISn7lb-ACMGB4CQT0aqD/view?usp=drive_link
 
-**360 VR**
+**Project: 360 VR**
 
 Hardware: PicoG2
 
@@ -52,8 +52,23 @@ Description: The app is made out of two stages, the main menu stage where by usi
 
 Video can be viewed here: https://drive.google.com/file/d/1gplcIPQUki2ZbLijr6D5wW1ebIkQa5Cr/view?usp=drive_link
 
+_______________________________________________
+
+**Museum of Kruja**
+
+**Project: Interactive Wall - AR**
+
+Hardware: Android tablet
+
+Description: AR app that uses Vuforia Engine for marker detection and video snapping. The video snapping was extra calibrated so we can get the fully correct position of the video playing over the marker. We needed to overlap a video taht is playing in 3D space with a video that will be played in 2D space, to get this effect we make a smooth transition from the 3D world space into the 2D overlay space. After the 2D overlay video finishes there is a state to scan the marker again. The subtitles are loaded via script so every subtitle is saved inside a exel sheet and loaded at the time when needed.
 
 
 
+![krujawall5](https://github.com/user-attachments/assets/50588f8e-2358-446c-a5d1-664681329ffd)
+![krujawall4](https://github.com/user-attachments/assets/2a927953-f98b-47b8-9fd2-eb00af2ca6d8)
+![krujawall3](https://github.com/user-attachments/assets/38dec019-e437-4c9e-bfda-ce7a8f5dee43)
+![krujawall2](https://github.com/user-attachments/assets/4083fa7b-a5e3-4fbe-8cda-57b8dc27c5f8)
+![krujawall1](https://github.com/user-attachments/assets/c3482c87-581b-4627-97f8-e3fda050fbb6)
 
 
+1
