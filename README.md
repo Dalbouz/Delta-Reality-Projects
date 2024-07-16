@@ -99,10 +99,11 @@ Description: By using the kinect camera i have implemented the hand gesture dete
 
 <img src = "https://github.com/user-attachments/assets/f97f7b6a-d268-4785-baad-153aaf98298c" height = "700px">
 </div>
-
-Screenshots from the app(there can be different backgrounds):
 <br></br>
 <div align = "center">
+Screenshots from the app(there can be different backgrounds):
+<br></br>
+
 <img src = "https://github.com/user-attachments/assets/569909b4-53c4-4574-b137-edeb63a7bd2d" height = "700px">
   <br></br>
 
@@ -123,11 +124,8 @@ Description: For the video player i use the AVPro plugin. The video controls are
 <br></br>
 <div align = "center">
 <img src = "https://github.com/user-attachments/assets/2339311e-33bf-42c8-bbdf-e99e8d785da8" height = "700px">
-  <br></br>
 <img src = "https://github.com/user-attachments/assets/9b010bd3-5521-4a78-8105-c44a3afe18ae" height = "700px">
-  <br></br>
 <img src = "https://github.com/user-attachments/assets/1b7ee014-5b66-4f0a-8779-11d628396e4a" height = "700px">
-  <br></br>
 <img src = "https://github.com/user-attachments/assets/9c63c3f2-4c8d-4f5e-b905-671f01f0b40e" height = "700px">
   <br></br>
 </div>
@@ -153,10 +151,10 @@ Description: By using the DSLR camera as a web came and implementing mediapipe i
 <img src = "https://github.com/user-attachments/assets/d4145d6b-9525-41fc-b6e1-33f67f56b523" height = "700px">
 </div>
 <br></br>
-
+<div align = "center">
 Final pictures:
 <br></br>
-<div align = "center">
+
 <img src = "https://github.com/user-attachments/assets/6a4992cb-7d6b-48e6-ae2c-e0370b4692eb" height = "700px">
 <img src = "https://github.com/user-attachments/assets/7f85a4ef-3f7c-427a-8c0d-5a006bd9c3ae" height = "700px">
 <img src = "https://github.com/user-attachments/assets/8db3fc31-7dc6-413d-832a-20ef1a898c4d" height = "700px">
