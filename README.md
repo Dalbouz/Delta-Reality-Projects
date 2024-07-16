@@ -19,7 +19,7 @@ For the languages we use the i2 localization package. From this is a photobooth 
 <img src = "https://github.com/user-attachments/assets/4557b481-04ea-456d-a8a0-b46b95fdcece" width = "700px">
 <br></br>
 <img src = " https://github.com/user-attachments/assets/47ad0f69-fda0-406e-ba7d-530e5b9197eb" width ="700px">
-<br></br>
+
 _____________________________________________________
 
 **Client: Museum of Knin**
