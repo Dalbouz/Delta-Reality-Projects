@@ -123,9 +123,13 @@ Description: For the video player i use the AVPro plugin. The video controls are
 <br></br>
 <div align = "center">
 <img src = "https://github.com/user-attachments/assets/2339311e-33bf-42c8-bbdf-e99e8d785da8" height = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/9b010bd3-5521-4a78-8105-c44a3afe18ae" height = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/1b7ee014-5b66-4f0a-8779-11d628396e4a" height = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/9c63c3f2-4c8d-4f5e-b905-671f01f0b40e" height = "700px">
+  <br></br>
 </div>
 
 Video of the app can be viewed here: https://drive.google.com/file/d/1J0meqXI9T2M6TiDta63DcWqWSK6b303O/view?usp=drive_link
