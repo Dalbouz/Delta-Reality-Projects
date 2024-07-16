@@ -96,7 +96,6 @@ Description: By using the kinect camera i have implemented the hand gesture dete
 <br></br>
 <div align = "center">
 <img src = "https://github.com/user-attachments/assets/41a2c69f-034d-4812-9ab7-a8f606f65636" height = "700px">
-  <br></br>
 
 <img src = "https://github.com/user-attachments/assets/f97f7b6a-d268-4785-baad-153aaf98298c" height = "700px">
 </div>
@@ -106,7 +105,6 @@ Screenshots from the app(there can be different backgrounds):
 <br></br>
 
 <img src = "https://github.com/user-attachments/assets/569909b4-53c4-4574-b137-edeb63a7bd2d" height = "700px">
-  <br></br>
 
 <img src = "https://github.com/user-attachments/assets/5b2211cd-7a6d-49dd-82b3-707ec8b425b2" height = "700px">
 </div>
