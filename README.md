@@ -37,10 +37,8 @@ Description: We use a real book with printed markers. To detect the markers we u
 <img src = "https://github.com/user-attachments/assets/877bf24e-db21-4678-b85a-52caaabef2a8" width = "700px">
 <br></br>
 Video can be viewed here: https://drive.google.com/file/d/1_6tt-m7uKKhkISn7lb-ACMGB4CQT0aqD/view?usp=drive_link
-
-
-
-**Project: 360 VR**
+<br></br>
+<b>Project: 360 VR</b>
 
 Hardware: PicoG2
 
