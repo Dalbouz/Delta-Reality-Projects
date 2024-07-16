@@ -12,8 +12,7 @@ For the languages we use the i2 localization package. From this is a photobooth 
 
 <img src = "https://github.com/user-attachments/assets/e5603f3b-a544-4af7-aa34-cdf46e7df020" alt = "EuropaParkIdle" height = "500px" align = "center">
 <br></br>
-
-![EuropaParkLang_select](https://github.com/user-attachments/assets/92d4044f-e630-4dff-96e2-8ad11a4805bc)
+<img src  = "https://github.com/user-attachments/assets/92d4044f-e630-4dff-96e2-8ad11a4805bc" height = "500px">
 
 ![EuropaParkBG_select](https://github.com/user-attachments/assets/2071fae6-cd4c-462a-b538-9eb223da9984)
 
