@@ -83,4 +83,21 @@ Description: By using the kinect camera i have implemented the hand gesture dete
 
 Video of the app can be viewed here: https://drive.google.com/file/d/1Rmgn_EHeOhd_96bASG5uYSHP8j2ZTeUE/view?usp=drive_link
 
-1
+______________________________________________________________
+
+**Client: Croatian museum of sports**
+
+**Project: Video galley**
+
+Hardware: Nuc, Touch monitor
+  
+Description: For the video player i use the AVPro plugin. The video controls are custom si that we can use some features that are not integrated inside the plugin. The import of the videos needed to be easy to do so i have created a simple way for the clients to load their videos, by writting the name and description video inside an exel sheet with a unique Key string. That key string is used for the video name and the video thumbnail. All of the video thumbnails and videos are stored inside the Streaming Assets folder. 
+
+![hsm-videogaleri](https://github.com/user-attachments/assets/2339311e-33bf-42c8-bbdf-e99e8d785da8)
+![hsm-videogaleri2](https://github.com/user-attachments/assets/9b010bd3-5521-4a78-8105-c44a3afe18ae)
+![hsm-videogaleri3](https://github.com/user-attachments/assets/1b7ee014-5b66-4f0a-8779-11d628396e4a)
+![hsm-videogaleri4](https://github.com/user-attachments/assets/9c63c3f2-4c8d-4f5e-b905-671f01f0b40e)
+
+Video of the app can be viewed here: https://drive.google.com/file/d/1J0meqXI9T2M6TiDta63DcWqWSK6b303O/view?usp=drive_link
+
+______________________________________
