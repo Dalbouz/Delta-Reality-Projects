@@ -1,4 +1,4 @@
-Projects created withing Delta Reality
+![man3](https://github.com/user-attachments/assets/caec5411-b4c5-4177-bb80-9e33599461e4)Projects created withing Delta Reality
 
 In this repository im going to showcase projectes i have worked on inside the Delta Reality firm. Also For each project there will be a description on the core features, technologys and hardware used.
 _____________________________________________________________
@@ -106,4 +106,31 @@ Description: For the video player i use the AVPro plugin. The video controls are
 
 Video of the app can be viewed here: https://drive.google.com/file/d/1J0meqXI9T2M6TiDta63DcWqWSK6b303O/view?usp=drive_link
 
+____________________________________________________
+
+**Client: Museum of Lipik**
+
+**Project: Photographic work**
+
+hardware: PC, DSLR camera, Projector
+
+Description: By using the DSLR camera as a web came and implementing mediapipe i have gotten a cutout of the users face. Getting the face point indexes of the user, im dynamic creating a mesh of the users face and with an extra camera in the sceen im getting the mesh position and creating a 2D alpha mask out of it. With this alpha mask i can blit the two textures (alpha mask and the camera feed) so that i can isolate the users surroundings and get only the users face. Now with some calculation i can get the users face inside the correct box no mather if the user stands infront of the camera of somewhere left/right. The costumes are created as prefabs and are saved hierachly inside scriptable objects. There are scriptable objects for the gender and the gender data holds the references to their costume data. The costume data holds the reference to the costume image thumbnail and the costume prefab. The flow of the app goes that on enter state of each screen a hologram appears on the Display 2 and talks about the history of photography. After the hologram finishes the app is interactable. After a costume is picked a screenshot state is up next where the user can take a screenhot of himself. There is a sepia shader material that is applyed on the final image. Aftweward the user can give the image a name and by submiting it the image is send via local server to the museums info table where the image can be printed out.
+
+![Lipik1](https://github.com/user-attachments/assets/082b4751-acc0-4ecb-a5f2-8b72fba73431)
+![Lipik2](https://github.com/user-attachments/assets/478783a1-6449-4b1f-b167-34ef6bd28925)
+![Lipik3](https://github.com/user-attachments/assets/64546491-117d-4ddd-aac0-245a3dd62b4e)
+![Lipik4](https://github.com/user-attachments/assets/eca2ff0a-cd18-468a-8f4f-8ffb7c816d04)
+![Lipik5](https://github.com/user-attachments/assets/77b726e4-5f67-4cd6-9e3b-f1ec8b52b1df)
+![Lipik6](https://github.com/user-attachments/assets/d4145d6b-9525-41fc-b6e1-33f67f56b523)
+
+Final pictures:
+![woman2](https://github.com/user-attachments/assets/6a4992cb-7d6b-48e6-ae2c-e0370b4692eb)
+![woman3](https://github.com/user-attachments/assets/7f85a4ef-3f7c-427a-8c0d-5a006bd9c3ae)
+![boy1](https://github.com/user-attachments/assets/8db3fc31-7dc6-413d-832a-20ef1a898c4d)
+![F-kid1](https://github.com/user-attachments/assets/0fe88e8c-f01f-4809-bf0b-16aee315b628)
+![F-kid2](https://github.com/user-attachments/assets/708c310d-cf5a-4a2a-b445-3bc44152b3e6)
+
+Full video of the app can be viewed here: https://drive.google.com/file/d/1XrbJmzYFgbCMTrrAovk3YQgmW0NfdtDd/view?usp=drive_link
+
+___________________________________________________________________-
 ______________________________________
