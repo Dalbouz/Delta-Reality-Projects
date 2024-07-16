@@ -34,8 +34,6 @@ Description: We use a real book with printed markers. To detect the markers we u
 
 ![Interactive book2](https://github.com/user-attachments/assets/efb4928c-ad43-4730-a007-50b3780bfeea)
 
-![Interactive book3](https://github.com/user-attachments/assets/f628cab2-7dfe-4d56-bc13-a619c008b94a)
-
 ![Interactive book4](https://github.com/user-attachments/assets/877bf24e-db21-4678-b85a-52caaabef2a8)
 
 Video can be viewed here: https://drive.google.com/file/d/1_6tt-m7uKKhkISn7lb-ACMGB4CQT0aqD/view?usp=drive_link
