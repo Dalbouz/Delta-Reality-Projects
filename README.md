@@ -1,4 +1,4 @@
-# Delta-Reality-projects
+![Knin 360 VR3](https://github.com/user-attachments/assets/29962f9c-4efe-465a-815a-862092b28ea9)# Delta-Reality-projects
 Projects created withing Delta Reality
 
 In this repository im going to showcase projectes i have worked on inside the Delta Reality firm. Also For each project there will be a description on the core features, technologys and hardware used.
@@ -29,7 +29,7 @@ _____________________________________________________
 
 Hardware: Andriod box, Infrared Camera, projector
 
-Description: We use a real book with printed markers. To detect the markers we use the Vuforia Engine. The app uses two langauges, so there are two videos for each marker, one made in croatian and the other in english. To change the langauge we use real buttons that are connected to the android box. When the camera detects a marker it starts with the video projection, if the language is changed while the video is playing it will just switch the video from cro to eng or the other way around and continue the video from the same frame it was stoped.
+Description: We use a real book with printed markers. To detect the markers we use the Vuforia Engine. The app uses two langauges, so there are two videos for each marker, one made in croatian and the other in english. To change the langauge we use real buttons that are connected to the android box. When the camera detects a marker it starts with the video projection, if the language is changed while the video is playing it will just switch the video from cro to eng or the other way around and continue the video from the same frame it was stoped. The videos are played using AVPro plugin. From this app we created a Interactive book template project that is used for every other future interactive book project.
 
 ![Interactive book1](https://github.com/user-attachments/assets/131cbad1-ef0c-45f3-b043-4a2881f64ad3)
 
@@ -40,6 +40,23 @@ Description: We use a real book with printed markers. To detect the markers we u
 ![Interactive book4](https://github.com/user-attachments/assets/877bf24e-db21-4678-b85a-52caaabef2a8)
 
 Video can be viewed here: https://drive.google.com/file/d/1_6tt-m7uKKhkISn7lb-ACMGB4CQT0aqD/view?usp=drive_link
+
+**360 VR**
+
+Hardware: PicoG2
+
+Description: The app is made out of two stages, the main menu stage where by using the head gaze pointer you can select if the subtitles will be loaded or not, and if you want to experience the 360VR on Croatian or English. The 2D animations are created by using DoTween, the gaze i used as a raycast, and we use the Canvas in the 3D space. Depending on the language selected the video will be loaded. The video is stored inside the Android persistant data path. The Subtitles are loaded from the exel sheet and the speed of the moving subtitles depends on the video duration. There are invisible boxes on each side of the hot air baloon to detect where the user is looking so that we can show the subtitles on the correct side. The projection of the video is on a 3D sphere, and to play the video we use AVPro plugin.
+
+![Knin 360 VR](https://github.com/user-attachments/assets/9cf9f93a-06cc-46d9-8298-cf048a4997e4)
+
+![Knin 360 VR3](https://github.com/user-attachments/assets/f81860c5-1a1c-4a01-90b9-ddbc87dbf016)
+
+![Knin 360 VR2](https://github.com/user-attachments/assets/6807b688-6979-4e1c-abad-bcb7937ffce4)
+
+Video can be viewed here: https://drive.google.com/file/d/1gplcIPQUki2ZbLijr6D5wW1ebIkQa5Cr/view?usp=drive_link
+
+
+
 
 
 
