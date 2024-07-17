@@ -167,7 +167,7 @@ Full video of the app can be viewed here: https://drive.google.com/file/d/1XrbJm
 
 ________________________________________________________________________________________________________
 
-<b>Client: Museum of natural history</b>
+<b>Client: Museum of natural history Zagreb</b>
 <br></br>
 <b>Project: Spectar electromagnetic waves</b>
 <br></br>
@@ -189,3 +189,62 @@ Full flow of the all can ve viewed here:
 
 https://drive.google.com/file/d/1qQMbKocsZt_tBHwy8UAblgq4c-Cz5c-H/view?usp=drive_link
 https://drive.google.com/file/d/1E_xcVihBcvidTFz72rPi5agoDl2EO7r0/view?usp=drive_link
+
+______________________________________________________________________________
+
+<b>Client: Etnographic museum of Požega</b>
+<br></br>
+<b>Project: Lerman's travels</b>
+<br></br>
+Hardware:Nuc, Touch monitor
+<br></br>
+Description: Educational 2D minigame where you explore Africa as the main character Lerman. There are 4 maps to travel to, all the maps are made as prefab variants and can be easly extended and changed. YOur playes can also wonder and hit bounds where it will inform you that your on the wrong path. The main path is created with bezier curves, and the bounds are also created around the area where the player can go. When the payers pivot hits the bounds it will inform you that your on the wrong path. There is also The main points where the player need to get to go to the next map. Everything is created as prefabs so you can fill the map/level prefab with all the needed features and they will work together, they are all independed from one another. When hitting the end point a letter will fly in and start the typing of the real letters that Lerman sended at that time. 
+<div align = "center">
+<img src = "https://github.com/user-attachments/assets/f31cf4c9-e4a9-40d9-bb21-553549f1cc09" width = "700px">
+<br></br>
+<img src = "https://github.com/user-attachments/assets/c6226a2e-8a42-4e1f-b8f2-637d990e4823" width = "700px">
+<br></br>
+<img src = "https://github.com/user-attachments/assets/b1fbaa19-72fa-4c55-a4e4-b29fc848a81c" width = "700px">
+<br></br>
+<img src = "https://github.com/user-attachments/assets/a75174cb-0708-4779-a8c3-041dd7f80ff1" width = "700px">
+<br></br>
+<img src = "https://github.com/user-attachments/assets/7d9fc9fa-021b-440c-bf18-f370fb6514ba" width = "700px">
+<br></br>
+<img src = "https://github.com/user-attachments/assets/14f6f582-21f4-444e-b4a0-0a989b0f64c5" width = "700px">
+<br></br>
+<img src = "https://github.com/user-attachments/assets/a9f00614-a657-435e-ba6f-47be63dca6ad" width = "700px">
+<br></br>
+<img src = "https://github.com/user-attachments/assets/bcd9dba5-b733-4e28-b7fc-2960e224be8a" width = "700px">
+</div>
+<br></br>
+Full app flow can be viewed here: https://drive.google.com/file/d/1AebM8795vAkrZbgKJqI5VjhxEScpFtzf/view?usp=drive_link
+
+____________________________________________________________
+
+<b>Client:Pitch for Unesco</b>
+<br></br>
+Hardware: Oculus Quest 3 Pro
+<br></br>
+Description: MR app where we use are real world door, sync it with the 3D world in unity and create the effect that you can walk through the real door into a fantasy world. On the other side we use a 360 sphere to project a 360 image. For this effect we use the portal plugin. Using the controller for the anchor point in the real world we can correcly point where the door is and sync the opening of the door also. With the other controller you can preset the offset and main setups before usage.
+
+<div align = "center">
+<img src = "https://github.com/user-attachments/assets/880c7cd8-2fa2-4b09-b101-ae37b7dbc043" width = "700px">
+  <br></br>
+
+<img src = "https://github.com/user-attachments/assets/322672bf-bbb1-45ec-a42e-35c26dbcdf6a" width = "700px">
+<br></br>
+<img src = "https://github.com/user-attachments/assets/407df4f8-f985-4e3c-a84f-8059ada9146b" width = "700px">
+</div>
+<br></br>
+Full app flow can be viewed here: https://drive.google.com/file/d/13u39FCARuu4GHLR8pmt4tJLlL8QgvdaD/view?usp=drive_link
+
+__________________________________________________________________________
+<b>Client: Museum of Halubarski Zvoncari</b>
+  <br></br>
+<b>Project: Paljenje Pusta</b>
+Hardware: Nuc, Touch monitor, infinity rotary connected with arduino
+<br></br>
+Description: Every name is saved inside the .json file and can be changed or removed, puppet parts are saved as prefabs and loaded as such for fully costumization of the puppet. When the puppet is created we take a screenshot of the puppet and flatten it into one texture. Then apply the burnout shader on it. The Screenshoted puppet is saved and send to the local server on the info table of the museum. All of the puppets are saved in one folder and loaded into the gallery state where you can view the created puppets by year.
+
+<br></br>
+Full app flow can be viewed here: https://drive.google.com/file/d/15H0XBq1R-ytet4ytec0n7YLH-OhHCKlT/view?usp=drive_link
