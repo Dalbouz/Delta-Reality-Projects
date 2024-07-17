@@ -165,7 +165,13 @@ Final pictures:
 <br></br>
 Full video of the app can be viewed here: https://drive.google.com/file/d/1XrbJmzYFgbCMTrrAovk3YQgmW0NfdtDd/view?usp=drive_link
 ___________________________________________________________________
-
+<b>Client: Museum of natural history</b>
+<br>
+<b>Project: Spectar electromagnetic waves</b>
+<br>
+Hardware: Nuc, 3x Planar monitors 55', external touch sensor
+<br>
+Description: multi touch informative application for exploring different minerals under different spectrum. Draggin the image through different spectrum's the image will shift to a different view deppending on the current spectrum it is in. The Info POI popups are created with scriptable objects and can be dinamicly changed, you can load different texts or images into a list and they will be shown in that order. Every image handles himself and checks the current position of the screen.
 Full flow of the all can ve viewed here:
 
 https://drive.google.com/file/d/1qQMbKocsZt_tBHwy8UAblgq4c-Cz5c-H/view?usp=drive_link
