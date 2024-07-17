@@ -164,8 +164,9 @@ Final pictures:
 </div>
 <br></br>
 Full video of the app can be viewed here: https://drive.google.com/file/d/1XrbJmzYFgbCMTrrAovk3YQgmW0NfdtDd/view?usp=drive_link
-___________________________________________________________________
-**Client: Museum of natural history**
+________________________________________________________________________________________________________
+<br></br>
+<b>Client: Museum of natural history</b>
 <br></br>
 <b>Project: Spectar electromagnetic waves</b>
 <br></br>
