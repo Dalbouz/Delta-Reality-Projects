@@ -239,6 +239,7 @@ Description: MR app where we use are real world door, sync it with the 3D world 
 Full app flow can be viewed here: https://drive.google.com/file/d/13u39FCARuu4GHLR8pmt4tJLlL8QgvdaD/view?usp=drive_link
 
 __________________________________________________________________________
+
 <b>Client: Museum of Halubarski Zvoncari</b>
   <br></br>
   
