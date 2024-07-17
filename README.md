@@ -241,9 +241,13 @@ Full app flow can be viewed here: https://drive.google.com/file/d/13u39FCARuu4GH
 __________________________________________________________________________
 <b>Client: Museum of Halubarski Zvoncari</b>
   <br></br>
+  
 <b>Project: Paljenje Pusta</b>
+
 Hardware: Nuc, Touch monitor, infinity rotary connected with arduino
+
 <br></br>
+
 Description: Every name is saved inside the .json file and can be changed or removed, puppet parts are saved as prefabs and loaded as such for fully costumization of the puppet. When the puppet is created we take a screenshot of the puppet and flatten it into one texture. Then apply the burnout shader on it. The Screenshoted puppet is saved and send to the local server on the info table of the museum. All of the puppets are saved in one folder and loaded into the gallery state where you can view the created puppets by year.
 
 <br></br>
