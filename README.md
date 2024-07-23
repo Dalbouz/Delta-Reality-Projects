@@ -246,9 +246,19 @@ __________________________________________________________________________
 <b>Project: Paljenje Pusta</b>
 
 Hardware: Nuc, Touch monitor, infinity rotary connected with arduino
-
 <br></br>
 Description: Every name is saved inside the .json file and can be changed or removed, puppet parts are saved as prefabs and loaded as such for fully costumization of the puppet. When the puppet is created we take a screenshot of the puppet and flatten it into one texture. Then apply the burnout shader on it. The Screenshoted puppet is saved and send to the local server on the info table of the museum. All of the puppets are saved in one folder and loaded into the gallery state where you can view the created puppets by year.
 
+<div align = "center">
+<img src = "https://github.com/user-attachments/assets/78e55ce0-555f-4619-9291-0b990c860651" height = "700px">
+<img src = "https://github.com/user-attachments/assets/af4b3ce0-cca2-43c0-b493-3498a1247dac" height = "700px">
+<img src = "https://github.com/user-attachments/assets/a3eaecac-84d3-4b8b-9b41-27a18dabfac1" height = "700px">
+<img src = "https://github.com/user-attachments/assets/281aab15-5834-4b0b-a5b6-8664d33ce73e" height = "700px">
+<img src = "https://github.com/user-attachments/assets/a8d24bde-3bce-49e1-9784-744071166a00" height = "700px">
+<img src = "https://github.com/user-attachments/assets/a0102f2d-391f-48c1-807d-32589d458946" height = "700px">
+<img src = "https://github.com/user-attachments/assets/e4c9346d-b854-47ed-b566-3f4dd3af4e6f" height = "700px">
+<img src = "https://github.com/user-attachments/assets/4c719ef0-9cde-451e-b2ce-15417d5a66c4" height = "700px">
+<img src = "https://github.com/user-attachments/assets/396e0035-43c8-4afa-ad63-a7a420017d06" height = "700px">
+</div>
 <br></br>
 Full app flow can be viewed here: https://drive.google.com/file/d/15H0XBq1R-ytet4ytec0n7YLH-OhHCKlT/view?usp=drive_link
