@@ -251,14 +251,29 @@ Description: Every name is saved inside the .json file and can be changed or rem
 
 <div align = "center">
 <img src = "https://github.com/user-attachments/assets/78e55ce0-555f-4619-9291-0b990c860651" width = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/af4b3ce0-cca2-43c0-b493-3498a1247dac" width = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/a3eaecac-84d3-4b8b-9b41-27a18dabfac1" width = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/281aab15-5834-4b0b-a5b6-8664d33ce73e" width = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/a8d24bde-3bce-49e1-9784-744071166a00" width = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/a0102f2d-391f-48c1-807d-32589d458946" width = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/e4c9346d-b854-47ed-b566-3f4dd3af4e6f" width = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/4c719ef0-9cde-451e-b2ce-15417d5a66c4" width = "700px">
+  <br></br>
 <img src = "https://github.com/user-attachments/assets/396e0035-43c8-4afa-ad63-a7a420017d06" width = "700px">
 </div>
 <br></br>
 Full app flow can be viewed here: https://drive.google.com/file/d/15H0XBq1R-ytet4ytec0n7YLH-OhHCKlT/view?usp=drive_link
+<br></br>
+
+<b>Project: Maskaraj Se</b>
+
+Hardware: Nuc, Kinect
+<br></br>
+Description: 
