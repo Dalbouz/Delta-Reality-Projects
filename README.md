@@ -1,6 +1,6 @@
 Projects created withing Delta Reality
 
-In this repository im going to showcase projectes i have worked on inside the Delta Reality firm. Also For each project there will be a description on the core features, technologys and hardware used.
+In this repository im going to showcase projectes i have worked on inside the Delta Reality firm. Also For each project there will be a description on the core features, technologys and hardware used. Every project i published and can be seen inside the museums. 
 _____________________________________________________________
 
 **Client: Europa Park Germany - PHOTOBOOTH**
