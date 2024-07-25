@@ -271,23 +271,19 @@ Description: Every name is saved inside the .json file and can be changed or rem
 <br></br>
 Full app flow can be viewed here: https://drive.google.com/file/d/15H0XBq1R-ytet4ytec0n7YLH-OhHCKlT/view?usp=drive_link
 <br></br>
-
-<b>Project: Maskaraj Se</b>
-
-Hardware: Nuc, Kinect
-<br></br>
-Description: 
-<div align = "center">
-</div>
-<br></br>
-Full app flow can be viewed here: https://drive.google.com/file/d/1uanJKpBSoLKiDiXPr1OFDzCgKr1kOXn7/view?usp=drive_link
-<br></br>
 <b>Project: Tanac</b>
 
 Hardware: Nuc, Kinect
 <br></br>
-Description: 
+Description: By using the Azure Kinect SDK for implementing the user detection and user gestures such as hand raise and hand swipe we can control the app. Its made out of few states, where one of the states is a video recording state. The user can dance and get comments from the few commentators. The video is recorded using the AVPro plugin. In a random frame the app takes the screenshot that is used later as the thumbnail of the video inside the gallery state and also the same picture is send to the info table of the museum where the picture can be printed out. We also add a time mark on the thumbnail when the screenshot is created. Videos are saved inside a folder withing the persistant data path with a id, and the thumbnail is saved inside another folder with the same id as the video id so that we can connect the corrent thumbnail with the corrent video.
 <div align = "center">
+<img src = "https://github.com/user-attachments/assets/5de88236-737e-4a57-8ea5-c9f0f3121523" height = "700px">
+<img src = "https://github.com/user-attachments/assets/83cd156e-b292-4ea6-b8d5-f293d1745f7d" height = "700px">
+<img src = "https://github.com/user-attachments/assets/c51e0f3f-d74c-4535-b92c-53698348ba79" height = "700px">
+<img src = "https://github.com/user-attachments/assets/2bdb9bf1-c9f5-4567-8703-27983cfc8899" height = "700px">
+<img src = "https://github.com/user-attachments/assets/52ba4e23-c603-4849-9784-b303460ec163" height = "700px">
+<img src = "https://github.com/user-attachments/assets/7de31aec-db0a-436c-b405-7d997df7905f" height = "700px">
+
 </div>
 <br></br>
 Full app flow can be viewed here:
