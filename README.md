@@ -140,6 +140,7 @@ Video of the app can be viewed here: https://drive.google.com/file/d/1J0meqXI9T2
 
 ____________________________________________________
 
+<!--
 **Client: Museum of Lipik**
 
 **Project: Photographic work**
@@ -170,7 +171,7 @@ Final pictures:
 <img src = "https://github.com/user-attachments/assets/708c310d-cf5a-4a2a-b445-3bc44152b3e6" height = "700px">
 <img src = "https://github.com/user-attachments/assets/caec5411-b4c5-4177-bb80-9e33599461e4" height = "700px">
 </div>
-
+-->
 
 ________________________________________________________________________________________________________
 
